@@ -66,7 +66,7 @@ const App = () => {
       <h1>Name Application</h1> 
       <p>The top-10 of both male and female names in Solita.</p>
       <button onClick={handleSortPopularity} >Sort by popularity</button>
-      <button onClick={handleSortAZ} >Sort Alpchabetically</button>
+      <button onClick={handleSortAZ} >Sort alphabetically</button>
     
 
       <form>
